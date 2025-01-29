@@ -10,7 +10,12 @@ This is a simple implementation of the classic Tic Tac Toe game. The game is pla
 
 ## OverView
 
-<video controls src="Screen Recording 2025-01-29 191055-1.mp4" title="Title"></video>
+
+
+
+https://github.com/user-attachments/assets/1b415eb8-6c7b-4029-96ce-826b6be10a46
+
+
 
 ## Installation
 To run the Tic Tac Toe game, follow these steps:
